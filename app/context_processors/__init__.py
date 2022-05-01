@@ -25,4 +25,3 @@ def utility_text_processors():
         format_price=format_price
     )
 
-
